@@ -1,0 +1,95 @@
+
+body {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #333;
+    background-color: #fff;
+}
+.main-section {
+    font-size: 12px;
+}
+
+.top {
+    background-image: url("../img/masthead_background.jpg");
+    height: 370px;
+    padding: 0;
+    position: static;
+    border: 0;
+    background-position: center;
+    background-repeat: repeat-x;
+    background-color: #f4f2e9;
+}
+h2 {
+    clear: both;
+    margin: 20px 0 10px 0;
+    color: #000;
+    width: 280px;
+    font-size: 18px;
+}
+.top-main-right h2 {
+    padding-right: 15px;
+}
+.top-menu {
+    height: 65px;
+    padding: 10px;
+}
+.top-main {
+    position: relative;
+}
+.top-main-left {
+    padding-right: 110px;
+}
+.top-main-right {
+    padding-left: 5px;
+    display: flex;
+    align-self: auto;
+    flex-wrap: wrap;
+}
+
+.top-main {
+    display: flex;
+    justify-content: center;
+    font-size: 18px;
+}
+
+.container-fluid {
+    display: flex;
+    flex-wrap: nowrap;
+}
+.book-four img {
+    width: 80px;
+    height: 120px;
+    margin: 0 2px 0 0;
+}
+.book-arrow {
+    height: 150px;
+    padding-top: 80px;
+    padding-right: 0;
+    padding-left: 0;
+    width: 55px;
+}
+.book-discover {
+    height: 150px;
+    width: 175px;
+    padding-right: 0;
+    padding-left: 0;
+}
+.book-sarrow {
+    height: 150px;
+    padding-top: 80px;
+    margin-right: 55px;
+}
+.book-discover img {
+    width: 80px;
+    height: 120px;
+    margin: 0 2px 0 0;
+}
+.book-three img {
+    width: 80px;
+    height: 120px;
+    margin: 0 2px 0 0;
+}
+#headline {
+    padding-top: 70px;
+}
